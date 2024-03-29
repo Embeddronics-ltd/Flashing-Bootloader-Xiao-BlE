@@ -1,4 +1,4 @@
-# GUide to Flash Bootloader in seeduino xiao Ble 
+#Flash Bootloader in seeduino xiao Ble 
 
 Hardware Required
 
