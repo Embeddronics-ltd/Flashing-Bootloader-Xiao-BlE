@@ -14,12 +14,17 @@ Step 1. Use Jlink to connect pins below:
 ![image](https://github.com/Embeddronics-ltd/Flashing-Bootloader-Xiao-BlE/assets/46509741/d9331cde-11f3-478e-85b4-8a33ca1b2a0b)
 ![image](https://github.com/Embeddronics-ltd/Flashing-Bootloader-Xiao-BlE/assets/46509741/ca779767-a386-4198-a1a4-db977ce1bde2)
 ![image](https://github.com/Embeddronics-ltd/Flashing-Bootloader-Xiao-BlE/assets/46509741/9997144f-b4b0-49f8-882a-7e3868d3ff5f)
+<div>
+<pre>
 Nrf52840 Pin          SWD PIn
 (TP5) Reset Pin   --------- Reset PIn 
 (TP8) SWDIO Pin --------  TDO Pin
 (TP7) SWDCLK Pin -------  RTCK Pin 
 (TP11) 3.3v ------------------ VREF 
-(TP 10) GND  ----------------- GND
+(TP 10) GND  ----------------- GND 
+</pre>
+</div>
+
 
 
 Step 2. Start the J-Flash and search nRF52840, creating a new project:
