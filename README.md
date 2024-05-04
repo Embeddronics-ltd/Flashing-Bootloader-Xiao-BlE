@@ -50,4 +50,4 @@ Then press F4 and F5 in that order. The reflashing is done.
 
 Flash success now you can disconnect jtag pins and arduino will pick it up 
 
-@copy [Embeddronics](https://www.embeddronics.com/)
+&copy; [Embeddronics](https://www.embeddronics.com/)
